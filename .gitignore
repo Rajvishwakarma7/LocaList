@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# Build files
+android/app/build/
+ios/build/
+
+# Other build artifacts
+*.log
+*.tmp
